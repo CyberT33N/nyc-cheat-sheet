@@ -71,7 +71,7 @@ ____________________________________
   "repository": {
     "type": "git",
     "url": "http://github.com/sample-project/sample-project.git"
-  }
+  },
   "keywords": [
     "test",
     "apple"
